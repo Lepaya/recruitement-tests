@@ -42,7 +42,7 @@ We also take into consideration the answers to the technical questions file and 
 
 - Commit messages are clear.
 
-- You must include unit tests.
+- You must include unit tests. They are really important to us so make sure they are all green and test the code well.
 
 - Please, **don't overengineer the solution**. Impress us with your clear and elegant code, avoid extra complexity where you don't need it.
 
