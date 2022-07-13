@@ -44,6 +44,8 @@ We also take into consideration the answers to the technical questions file and 
 
 - You must include unit tests.
 
+- Please, **don't overengineer the solution**. Impress us with your clear and elegant code, avoid extra complexity where you don't need it.
+
 ## User Story
 
 - Given I am a user running the application.
