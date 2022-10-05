@@ -1,16 +1,15 @@
 # Tech Assessment for Test Automation Engineers
 
-In this test assignment we would like to ask you to create two small test suits: one for API and one for a web interface.
+In this test assignment we would like to ask you to create two small test suits: one for a API and one for a web interface.
 
 ## 1. The API Test
 
 Your assignment is to write a test suit using cypress to verify our endpoints are working correctly.
-## The HR System API
 
 You will be testing only 2 endpoints:
 
 ### GET /api/learners
-Returns a list of all availabel learners.
+Returns a list of all available learners.
 
 Ex: GET /api/learners
 
@@ -38,20 +37,20 @@ Ex: POST /api/learners
 
 Body:
 ```
-
 {
     "name": "Some name"
 }
 ```
-Expected: 
+Expected:
+- Learner is added to the list
 - Http 201 Created
 
 
 **The base URL will be provided to you by your point of contact of Lepaya. If you didn't receive this, please, email us.**
 
-<br/><br/>
+<br/>
 
-## 2. The Web Test
+## 2. The Web Interface Test
 
 For the web, we will be testing this system: https://react-ts-redux-realworld-example-app.netlify.app/#/
 
@@ -61,8 +60,10 @@ For the web, we will be testing this system: https://react-ts-redux-realworld-ex
 1. Find the Project "Welcome to RealWorld project"
 1. Click in the heart box on the right to like the project.
 1. The number of likes should increase by 1
+ 
+This is an open application, you can easily create a new user on your own to run your tests.
 
-<br/><br/>
+<br/>
 
 ## Task requirements
 
@@ -70,9 +71,9 @@ Feel free to spend as much or as little time on the exercise as you like as long
 However, we understand people have busy lives so feel free to spend no more than 2-3 hours on a submission. 
 We also take into consideration the answers to the technical questions file and what you would like to have added if you had more time. You should look at this as the complete solution, it's much quicker to explain what you would like to have done than coding it.
 
-- You should use Cypress as our Test framework/tool. You can create just one project for both tests.
+- **You should use Cypress as our Test framework/tool**.
 
-- Your code should run in one step. Ex: cypress run, npx cypress run, etc.
+- **Create just one project/repository for both tests**.
 
 - Feel free to use whatever frameworks / libraries / packages you like besides that.
 
@@ -80,11 +81,14 @@ We also take into consideration the answers to the technical questions file and 
 
 - Commit messages are clear.
 
+- **Write 2 Github Actions for running the tests**, one for the API and another for the Web Interface. If a test fails, it should break the pipeline.
+
 - Please, **don't overengineer the solution**. Impress us with your clear and elegant code, avoid extra complexity where you don't need it.
 
-Feel free to ask any questions to clarify the Use Case.
+- Feel free to ask any questions to clarify the Use Case.
 
-<br/><br/>
+<br/>
+
 ## Technical questions
 
 Please answer the following questions in a markdown file called **"Answers to technical questions.md"**.
@@ -95,15 +99,18 @@ Please answer the following questions in a markdown file called **"Answers to te
 
 1. How would you improve this API you just used?
 
-1. What could be improved in the description of the task/use cases so it would be more clear what to test?
+1. What could be improved in the description of the task/use cases so it would be more clear what the requirements are?
+
+1. What are your tools/frameworks of choice when testing each type of test? Why did you choose these tools?
 
 1. Describe yourself using JSON.
 
-<br/><br/>
+<br/>
 
 ## How to deliver this test
 
-- Create a **private repository** on your git provider and push your code to it. Remember, we will be evaluating your commit messages too, so no big bang commit, please.
-- **If you have any questions, send us a message.**
+- Create a **private repository** on Github and push your code to it. Remember, we will be evaluating your commit messages too, so no big bang commit, please.
+- Don't forget to add the 2 Github Actions so we can run your tests.
 - When you are done, invite the hiring managers as contributors to the repo. Their emails should have been sent to you already, but if they were not, please send us a message.
+- **If you have any questions, send us a message.**
 - Good luck!
