@@ -3,7 +3,6 @@
 In this test assignment we would like to ask you to create two small test suits: one for API and one for a web interface.
 
 ## 1. The API Test
----
 
 Your assignment is to write a test suit using cypress to verify our endpoints are working correctly.
 ## The HR System API
@@ -53,7 +52,6 @@ Expected:
 <br/><br/>
 
 ## 2. The Web Test
----
 
 For the web, we will be testing this system: https://react-ts-redux-realworld-example-app.netlify.app/#/
 
@@ -64,13 +62,9 @@ For the web, we will be testing this system: https://react-ts-redux-realworld-ex
 1. Click in the heart box on the right to like the project.
 1. The number of likes should increase by 1
 
----
-
-
 <br/><br/>
 
 ## Task requirements
----
 
 Feel free to spend as much or as little time on the exercise as you like as long as the requirements have been met. 
 However, we understand people have busy lives so feel free to spend no more than 2-3 hours on a submission. 
@@ -92,7 +86,6 @@ Feel free to ask any questions to clarify the Use Case.
 
 <br/><br/>
 ## Technical questions
----
 
 Please answer the following questions in a markdown file called **"Answers to technical questions.md"**.
 
@@ -109,7 +102,6 @@ Please answer the following questions in a markdown file called **"Answers to te
 <br/><br/>
 
 ## How to deliver this test
----
 
 - Create a **private repository** on your git provider and push your code to it. Remember, we will be evaluating your commit messages too, so no big bang commit, please.
 - **If you have any questions, send us a message.**
