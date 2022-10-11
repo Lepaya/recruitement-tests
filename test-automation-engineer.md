@@ -4,7 +4,7 @@ In this test assignment we would like to ask you to create two small test suits:
 
 ## 1. The API Test
 
-Your assignment is to write a test suit using cypress to verify our endpoints are working correctly.
+Your assignment is to write a test suit using **cypress or playwright** to verify our endpoints are working correctly.
 
 You will be testing only 2 endpoints:
 
@@ -71,7 +71,7 @@ Feel free to spend as much or as little time on the exercise as you like as long
 However, we understand people have busy lives so feel free to spend no more than 2-3 hours on a submission. 
 We also take into consideration the answers to the technical questions file and what you would like to have added if you had more time. You should look at this as the complete solution, it's much quicker to explain what you would like to have done than coding it.
 
-- **You should use Cypress as our Test framework/tool**.
+- **You should use Cypress or Playwright as our Test framework/tool**.
 
 - **Create just one project/repository for both tests**.
 
