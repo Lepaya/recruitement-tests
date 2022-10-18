@@ -111,6 +111,6 @@ Please answer the following questions in a markdown file called **"Answers to te
 
 - Create a **private repository** on Github and push your code to it. Remember, we will be evaluating your commit messages too, so no big bang commit, please.
 - Don't forget to add the 2 Github Actions so we can run your tests.
-- When you are done, invite the hiring managers as contributors to the repo. Their emails should have been sent to you already, but if they were not, please send us a message.
+- When you are done, invite the user **lepaya-code-reviewer** as a contributor to the repo and then **notify us**.
 - **If you have any questions, send us a message.**
 - Good luck!
