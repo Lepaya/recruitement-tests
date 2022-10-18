@@ -92,7 +92,7 @@ We also take into consideration the answers to the technical questions file and 
 
 ## Technical questions
 
-Please answer the following questions in a markdown file called **"Answers to technical questions.md"**.
+Please answer the following questions in a markdown file called **"Answers to technical questions.md"**. Place this file in the **root of your project** so it is easly found.
 
 1. How long did you spend on this test? What would you add to your solution if you had more time? If you didn't spend much time on the test then use this as an opportunity to explain what you would add.
 
