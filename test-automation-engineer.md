@@ -19,14 +19,15 @@ Expected:
 ```
 {
     "learners": [
-    {
-        "id": "b108a08f-1663-4755-a545-bd07e5c5074e",
-        "name": "Joy Reynolds DVM"
-    },
-    {
-        "id": "47d8eb7d-fafa-4ef5-9fa9-0bb4dc733f86",
-        "name": "Olive Daniel IV"
-    }
+        {
+            "id": "b108a08f-1663-4755-a545-bd07e5c5074e",
+            "name": "Joy Reynolds DVM"
+        },
+        {
+            "id": "47d8eb7d-fafa-4ef5-9fa9-0bb4dc733f86",
+            "name": "Olive Daniel IV"
+        }
+    ]
 }
 ```
 
