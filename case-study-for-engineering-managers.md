@@ -13,7 +13,8 @@ Please prepare a 20 minute presentation in which you give your answer to the fol
 
 ## Deliverable and deadline:
 
-Timeframe: 
-We would like to suggest spending a maximum of 6-8h on the assignment
+We would like to suggest spending a maximum of 4-6h on the assignment.
+
+As soon as you are ready, reach out to our Talent Acquisition team to share your deck and schedule your presentation.
 
 Good luck! 
