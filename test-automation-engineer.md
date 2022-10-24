@@ -46,6 +46,8 @@ Expected:
 - Learner is added to the list
 - Http 201 Created
 
+Our developers double-checked that both endpoints are working fine, but if you find any discrepancy between the spec written here and the result of your test, that test should **break the pipeline and stop it.** We don't want faulty APIs to be deployed to production.
+
 
 **The base URL will be provided to you by your point of contact of Lepaya. If you didn't receive this, please, email us.**
 
