@@ -14,7 +14,6 @@ Best of luck!
 - You have to use Terraform, but feel free to choose any AWS service, programming language, and database you want.
 - Create a pipeline to run your terraform code.
 - Assume at least 2 environments: stating and production.
-- The solution must be delivered using a private git repository on GitHub. 
 
 ## Acceptance Criteria
 - The solution works as expected.
@@ -24,3 +23,11 @@ Best of luck!
 
 ## Bonuses
 Using GitHub Actions for CI/CD pipeline is a Plus.
+
+## How to deliver this test
+
+- Create a private repository on Github and push your code to it. Remember, we will be evaluating your commit messages too, so no big bang commit, please.
+- If you have any questions, send us a message.
+- When you are done, invite the user **lepaya-code-reviewer** as a contributor to the repo and then notify us.
+
+Good luck!
