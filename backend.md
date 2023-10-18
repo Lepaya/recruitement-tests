@@ -76,7 +76,7 @@ The API output format should look like this:
     {
       "id": "47d8eb7d-fafa-4ef5-9fa9-0bb4dc733f86",
       "name": "Olive Daniel IV"
-    },
+    }
   ]
 }
 ```
