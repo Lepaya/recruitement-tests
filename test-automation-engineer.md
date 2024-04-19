@@ -87,6 +87,8 @@ We also take into consideration the answers to the technical questions file and 
 - **Write 2 Github Actions for running the tests**, **one for the API** and **another for the Web Interface**. If a test fails, it should break the pipeline.
   - Tip: use the trigger: "[workflow_dispatch]" to be able to manually run the pipelines.
 
+- **Write a README.md** with instructions on how to run your project and your tests.
+
 - Please, **don't overengineer the solution**. Impress us with your clear and elegant code, avoid extra complexity where you don't need it.
 
 - Feel free to ask any questions to clarify the Use Case.
