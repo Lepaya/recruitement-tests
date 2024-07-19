@@ -34,9 +34,9 @@ We also take into consideration the answers to the technical questions file and 
 
 - Your code should run in one step.
 
-- **The API should be a node.js application.** You can use javascript or typescript.
+- **The API should be a node.js application. Use typescript.**
 
-- Feel free to use whatever frameworks / libraries / packages you like besides that.
+- Our default framework is nestjs but feel free to use whatever frameworks / libraries / packages you like.
 
 - The code is clean and follows modern patterns.
 
