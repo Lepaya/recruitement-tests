@@ -12,14 +12,14 @@ Your assignment is to connect to one HR System API, combine some information fro
 
 You will be accessing 3 endpoints:
 
-Endpoint | Description
--- | --
-/api/trainers | List of all available trainers
-/api/trainers/{id} | A single trainer
-/api/learners | List of all available learners
-/api/learners/{id} | A single learner
-/api/courses | List of all available courses
-/api/courses/{id} | A single course
+Endpoint | Description | Info
+-- | -- | --
+GET /api/trainers | List of all available trainers | Source updated every day
+GET /api/trainers/{id} | A single trainer | Source updated every day
+GET /api/learners | List of all available learners | Source updated every day
+GET /api/learners/{id} | A single learner | Source updated every day
+GET /api/courses | List of all available courses | Live source
+GET /api/courses/{id} | A single course | Live source
 
 
 Unfortunately, this is a third party API and we can’t change it.
@@ -80,7 +80,9 @@ The API output format should look like this:
   ]
 }
 ```
-
+### Other requirements
+- We need **live information about which trainer and learner are in each course**, given the system restrictions.
+- Your endpoint should **take on average less than 1s to return**.
 
 Feel free to ask any questions to clarify the Use Case.
 
