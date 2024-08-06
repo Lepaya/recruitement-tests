@@ -81,7 +81,7 @@ The API output format should look like this:
 }
 ```
 ### Other requirements
-- We need **live information about which trainer and learner are in each course**, given the system restrictions.
+- Learners may be transferred between courses at any time. Your API should consistently deliver **the most up-to-date information**.
 - Your endpoint should **take on average less than 1s to return**.
 
 Feel free to ask any questions to clarify the Use Case.
