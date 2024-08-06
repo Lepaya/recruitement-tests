@@ -14,10 +14,10 @@ You will be accessing 3 endpoints:
 
 Endpoint | Description | Info
 -- | -- | --
-GET /api/trainers | List of all available trainers | Source updated every day
-GET /api/trainers/{id} | A single trainer | Source updated every day
-GET /api/learners | List of all available learners | Source updated every day
-GET /api/learners/{id} | A single learner | Source updated every day
+GET /api/trainers | List of all available trainers | Source updated every day at 23:59
+GET /api/trainers/{id} | A single trainer | Source updated every day at 23:59
+GET /api/learners | List of all available learners | Source updated every day at 23:59
+GET /api/learners/{id} | A single learner | Source updated every day at 23:59
 GET /api/courses | List of all available courses | Live source
 GET /api/courses/{id} | A single course | Live source
 
