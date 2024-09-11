@@ -23,7 +23,7 @@ Good luck, and have fun!
 
 ## The Task
 
-Your task is to create an app that requests and displays the `hot`, `new`, and `rising` lists from the `/r/FlutterDev` subreddit.
+Your task is to create an app that requests and displays the `hot`, `new`, and `rising` lists from the `/r/FlutterDev` subreddit. When the user clicks an entry on the list, the post should open in a new browser tab.
 
 You can find the Reddit API documentation [here](https://www.reddit.com/dev/api/) and the expected design [here](https://www.figma.com/file/I24HNkA9NfRVjObQxMVYMi/Flutter-assignment-v2?node-id=0%3A1).
 
