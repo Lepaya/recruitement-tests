@@ -75,7 +75,7 @@ Short — one page, two at most. Cover 3 things:
 
 If you genuinely worked without an agent, that is allowed. Say so in `AGENT-NOTES.md`. 
 
-Your traces are read by the us for evaluating assignment and not used for nothing else. Start fresh sessions for this assignment so your logs contain nothing personal.
+Your traces are read by us for evaluating assignment and not used for anything else. Start fresh sessions for this assignment so your logs contain nothing personal.
 
 ---
 
