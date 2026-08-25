@@ -43,16 +43,11 @@ There is intentionally no single "correct" architecture.
 
 **Explain why you chose yours.**
 
----
-
-## The Important Part: Assume the Data Is Sensitive
-
-Although the assignment uses randomly generated email addresses, **treat them as production PII throughout the system.**
-A system that is functionally correct but unnecessarily exposes sensitive data is not considered secure.
+Please assume the data is sensitive! Although the assignment uses randomly generated email addresses, **treat them as production PII throughout the system.** A system that is functionally correct but unnecessarily exposes sensitive data is not considered secure.
 
 ---
 
-## The Other Important Part: Show Your Work
+## Show Your Work
 
 The finished system shows what your agent can do. The record of how you built it shows what **you** can do. Both ship in the same repo.
 
