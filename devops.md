@@ -94,8 +94,8 @@ We do not grade language choice, framework fashion, line counts, or how much of 
 
 1. Work in a **private GitHub repository** from the first commit.
 2. **Commit as you go.** Small commits, honest messages. The history is part of the submission — a single squashed commit deletes your best exhibit.
-3. When you stop building, invite the GitHub user **`realsby`** as a collaborator.
-4. Email us to tell us it is ready.
+3. When you stop building, invite the GitHub user **`lepaya-code-reviewer`** as a collaborator.
+4. Email devops@lepaya.com to tell us it is ready.
 
 For minor ambiguities, make a reasonable assumption and write it down. **That is the job.**
 
